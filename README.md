@@ -50,22 +50,3 @@ Results obtained using the sample data are illustrative only.
 
 ---
 
-## ▶️ How to run the analysis
-
-### 1. Install dependencies
-
-
-pip install -r requirements.txt
-
----
----
-### 1. Install dependencies
-python scripts/01_prepare_data.py
-python scripts/02_estimate_pscore.py
-python scripts/03_estimate_att.py
-python scripts/04_placebo_test.py
-python scripts/05_spatial_diagnostics.py
-python scripts/06_plots.py
-
-
-``
