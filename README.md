@@ -56,6 +56,15 @@ Results obtained using the sample data are illustrative only.
 
 ```bash
 pip install -r requirements.txt
+----
+
+###  2. Run scripts in order
+python scripts/01_prepare_data.py
+python scripts/02_estimate_pscore.py
+python scripts/03_estimate_att.py
+python scripts/04_placebo_test.py
+python scripts/05_spatial_diagnostics.py
+python scripts/06_plots.py
 
 
 ``
