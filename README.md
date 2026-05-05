@@ -54,11 +54,12 @@ Results obtained using the sample data are illustrative only.
 
 ### 1. Install dependencies
 
-```bash
-pip install -r requirements.txt
-----
 
-###  2. Run scripts in order
+pip install -r requirements.txt
+
+---
+---
+### 1. Install dependencies
 python scripts/01_prepare_data.py
 python scripts/02_estimate_pscore.py
 python scripts/03_estimate_att.py
