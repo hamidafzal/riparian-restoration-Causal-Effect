@@ -8,7 +8,7 @@ import numpy as np
 from sklearn.linear_model import LogisticRegression
 from sklearn.preprocessing import StandardScaler
 
-DATA_PATH = "data/df_sample_for_github.csv"
+DATA_PATH = "data/df_sample.csv"
 
 df = pd.read_csv(DATA_PATH)
 
