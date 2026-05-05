@@ -31,7 +31,31 @@ Effects on the Treated (ATTs)**.
   - Spatial cluster‑robust standard errors
 
 ---
+---
 
-## 📂 Repository structure
+## 📊 Data availability
+
+The full analytical dataset used in the manuscript cannot be shared due to
+data volume and licensing constraints.
+
+This repository includes a **reduced sample dataset**
+(`data/df_sample_for_github.csv`) containing **100 randomly selected pixels per reach**.
+
+The sample data:
+- preserves the structure of the full dataset,
+- allows execution of the complete analysis workflow,
+- **does not reproduce the manuscript’s quantitative results**.
+
+Results obtained using the sample data are illustrative only.
+
+---
+
+## ▶️ How to run the analysis
+
+### 1. Install dependencies
+
+```bash
+pip install -r requirements.txt
+
 
 ``
