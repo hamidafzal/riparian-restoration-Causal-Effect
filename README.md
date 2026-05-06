@@ -25,7 +25,6 @@ Effects on the Treated (ATTs)**.
 - **Key features**
   - Propensity score weighting (IPTW)
   - Reach fixed effects
-  - Placebo test (pre‑trend diagnostic)
   - Sensitivity analysis (E‑values)
   - Spatial diagnostics (Moran’s I)
   - Spatial cluster‑robust standard errors
