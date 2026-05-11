@@ -16,8 +16,8 @@ Effects on the Treated (ATTs)**.
 - **Outcome**
   - Vegetation Health Index (VHI)
 
-- **Design**
-  - Event‑study difference‑in‑differences
+- **Framework**
+  - Potential outcomes
 
 - **Estimand**
   - Average Treatment Effect on the Treated (ATT)
