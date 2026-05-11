@@ -34,8 +34,7 @@ Effects on the Treated (ATTs)**.
 
 ## 📊 Data availability
 
-The full analytical dataset used in the manuscript cannot be shared due to
- licensing constraints.
+The complete analytical dataset used in the manuscript is available from the authors upon reasonable request.
 
 This repository includes a **reduced sample dataset**
 (`data/sample.csv`) containing **100 randomly selected pixels per reach**.
