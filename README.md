@@ -17,7 +17,7 @@ Effects on the Treated (ATTs)**.
   - Vegetation Health Index (VHI)
 
 - **Framework**
-  - Potential outcomes
+  - Potential outcomes · marginal structural model
 
 - **Estimand**
   - Average Treatment Effect on the Treated (ATT)
