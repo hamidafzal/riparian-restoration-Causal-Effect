@@ -34,7 +34,7 @@ Effects on the Treated (ATTs)**.
 
 ## 📊 Data availability
 
-The complete analytical dataset used in the manuscript is available from the authors upon reasonable request.
+The complete analytical dataset used in the manuscript is available from the authors upon  request.
 
 This repository includes a **reduced sample dataset**
 (`data/sample.csv`) containing **100 randomly selected pixels per reach**.
@@ -42,7 +42,7 @@ This repository includes a **reduced sample dataset**
 The sample data:
 - preserves the structure of the full dataset,
 - allows execution of the complete analysis workflow,
-- **does not reproduce the manuscript’s quantitative results**.
+- **does not reproduce the ORIGINAL quantitative results**.
 
 Results obtained using the sample data are illustrative only.
 
