@@ -14,7 +14,7 @@ Effects on the Treated (ATTs)**.
 ## 🔬 Study Overview
 
 - **Outcome**
-  - Vegetation Health Index (VHI)
+  - The average treatment effect of hydrological restoration on the Vegetation Health Index
   -  $$VHI = \alpha \cdot VCI + (1 - \alpha) TCI$$
   
 - **Framework**
