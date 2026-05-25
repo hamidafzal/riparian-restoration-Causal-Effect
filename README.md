@@ -15,7 +15,7 @@ Effects on the Treated (ATTs)**.
 
 - **Outcome**
   - Vegetation Health Index (VHI)
-  $$VHI = \alpha \cdot VCI + (1 - \alpha) TCI$$
+  - ** $$VHI = \alpha \cdot VCI + (1 - \alpha) TCI$$
   
 - **Framework**
   - Potential outcomes · marginal structural model
