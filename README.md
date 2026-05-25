@@ -15,7 +15,8 @@ Effects on the Treated (ATTs)**.
 
 - **Outcome**
   - Vegetation Health Index (VHI)
-
+  V𝐻𝐼 = 𝛼. 𝑉𝐶𝐼 + (1 − 𝛼)𝑇𝐶I
+  *𝛼 = 1/2
 - **Framework**
   - Potential outcomes · marginal structural model
 
