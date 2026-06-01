@@ -6,7 +6,7 @@ Event-study analysis of riparian forest restoration effects on Vegetation Health
 riparian forest restoration effects on vegetation health using satellite data.
 
 The analysis implements an **inverse probability of treatment weighting (IPTW)**
-difference‑in‑differences design to estimate time‑varying **Average Treatment
+difference‑in‑differences (DiD) design to estimate time‑varying **Average Treatment
 Effects on the Treated (ATTs)**.
 
 ---
