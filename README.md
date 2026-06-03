@@ -3,10 +3,6 @@ Event-study analysis of riparian forest restoration effects on Vegetation Health
 
 # Riparian Forest Restoration — Event‑Study with IPTW
 
-# Try the source code on Google Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hamidafzal/riparian-restoration-Causal-Effect/blob/main/Danube_Causal_Pipeline.ipynb)
-
-
 
 -This repository contains the analysis code for an event‑study evaluation of
 riparian forest restoration effects on vegetation health using satellite data.
@@ -40,6 +36,8 @@ Effects on the Treated (ATTs)**.
 ---
 
 ## 📊 Data availability
+# Try the source code on Google Colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hamidafzal/riparian-restoration-Causal-Effect/blob/main/Danube_Causal_Pipeline.ipynb)
 
 The complete analytical dataset used in the manuscript is available from the authors upon  request.
 
