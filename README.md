@@ -2,9 +2,6 @@
 Event-study analysis of riparian forest restoration effects on Vegetation Health Index (VHI) using satellite data
 # Riparian Forest Restoration — Event‑Study with IPTW
 # Try the source code on Google Colab
-<a href="https://google.com" target="_parent">
-  <img src="https://google.com" alt="Open In Colab"/>
-</a>
 
 
 
