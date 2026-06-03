@@ -1,8 +1,11 @@
 # riparian-restoration-Causal-Effect
+
+Event-study analysis of riparian forest restoration effects on Vegetation Health Index (VHI) using satellite data
+
 Try the Pipeline on Google Colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hamidafzal/riparian-restoration-Causal-Effect/blob/main/Danube_Causal_Pipeline.ipynb)
 
-Event-study analysis of riparian forest restoration effects on Vegetation Health Index (VHI) using satellite data
+
 
 # Riparian Forest Restoration — Event‑Study with IPTW
 
