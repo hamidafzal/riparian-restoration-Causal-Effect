@@ -36,7 +36,7 @@ Effects on the Treated (ATTs)**.
 ---
 
 ## 📊 Data availability
-# Try the source code on Google Colab
+Try the Pipeline on Google Colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hamidafzal/riparian-restoration-Causal-Effect/blob/main/Danube_Causal_Pipeline.ipynb)
 
 The complete analytical dataset used in the manuscript is available from the authors upon  request.
